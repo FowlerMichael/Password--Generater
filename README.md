@@ -19,7 +19,7 @@ CSS
 JavaScript
 
 # Credits
-MSU Coding BootCamp
+MSU Coding BootCamp, https://www.youtube.com/watch?v=v2jfGo7ztm8&t=660s
 
 # Author
 Michael Fowler
