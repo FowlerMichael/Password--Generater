@@ -36,6 +36,10 @@ var generatePassword = function() {
   if (useSpecial) {
     password += specialCharacters;
   }
+  else if (!useLower && !useUpper && !useNumbers && !useSpecial) {
+    alert("You must select at least one character type");
+    return generatePassword();
+  }
 
   
   let generatedPassword = "";
