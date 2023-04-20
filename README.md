@@ -7,10 +7,11 @@ To use the password generator, simply click the "Generate Password" button and f
 Once you have made your selections, the application will generate a random password for you, which will be displayed in the text area at the center of the page.
 
 # Photo
-image.png
+![image](https://user-images.githubusercontent.com/123891461/233112356-f2003770-00aa-4540-976b-72a0fab73534.png)
+
 
 # Link 
-
+https://fowlermichael.github.io/Password--Generater/
 
 # Languages Used
 HTML
@@ -18,7 +19,7 @@ CSS
 JavaScript
 
 # Credits
-MSU Coding BootCamp
+MSU Coding BootCamp, https://www.youtube.com/watch?v=v2jfGo7ztm8&t=660s
 
 # Author
 Michael Fowler
